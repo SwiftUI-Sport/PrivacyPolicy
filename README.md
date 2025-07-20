@@ -1,12 +1,39 @@
-# React + Vite
+# Runday Privacy Policy Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React‑based static site for Runday’s Privacy Policy.  
+This repository hosts the GDPR‑ and CCPA‑compliant Privacy Policy page for the Runday running app, complete with:
 
-Currently, two official plugins are available:
+- **Accordion**‑style sections  
+- **Dynamic** Table of Contents  
+- **Team Credits** banner  
+- **Back‑to‑Top** button  
+- Fully **mobile‑responsive** layout  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React & Tailwind CSS** for fast, modern UI  
+- **Dark mode** support via `prefers-color-scheme`  
+- **Accordion** components for each policy section  
+- **Table of Contents** highlighting the active section  
+- **Back to Top** button for easy navigation  
+- **Team Credits** banner with LinkedIn links  
+- Easily **customizable** policy data in `PolicyData.js`  
+
+---
+
+## 🛠 Tech Stack
+
+- **React**  
+- **Tailwind CSS**  
+- **Vite** (for local dev & build)  
+
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- Node.js >= 16  
+- npm or Yarn  
